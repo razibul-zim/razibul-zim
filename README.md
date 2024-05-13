@@ -1,7 +1,7 @@
 [![GitHub Banner](https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279)](https://github.com/razibul-zim)
 
 <h1 align="center">Hi 👋, I'm Razibul Islam Zim</h1>
-<h3 align="center">A passionate Penetration Tester and Frontend Developer and from Bangladesh</h3>
+<h3 align="center">A passionate Penetration Tester and Frontend Developer from Bangladesh</h3>
 
 <p align="left">I am Razibul Islam Zim . I am a growth cyber security analyst,penetration Tester experience,and full stack web development. I have a lot of experience in penetrating testing and I have a good knowledge of how penetration testing process will be work. I have very good Knowledge of Linux operating system, penetration testing, Vulnerability assessment.</p>
 My Skill:
